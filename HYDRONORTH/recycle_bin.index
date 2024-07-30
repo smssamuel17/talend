@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recyclebin:RecycleBin xmlns:recyclebin="http://www.talend.org/recyclebin">
+  <deletedFolders>process/DataLake</deletedFolders>
+  <deletedFolders>process/DataLake/Refined</deletedFolders>
+  <deletedFolders>process/DataLake/Refined/Raw</deletedFolders>
+  <deletedItems id="_QWUlIERDEe-YS8RQVZZjcw" path="DataLake/Refined/Raw" type="PROCESS"/>
+</recyclebin:RecycleBin>
