@@ -4,4 +4,5 @@
     <migrationTask xmi:id="_fGCzkE6kEe-Wi9BUu6mzew" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
   <TalendProperties:User xmi:id="_fF7e0U6kEe-Wi9BUu6mzew" login="thiagosanti@hydronorth.com" firstName="Thiago" lastName="Oliveira Santi" type="DI"/>
+  <TalendProperties:User xmi:id="_Mdsn4E8yEe-EBYz8veLclg" login="joao.santos@hydronorth.com" firstName="João Vitor" lastName="Dos Santos" type="DI"/>
 </xmi:XMI>

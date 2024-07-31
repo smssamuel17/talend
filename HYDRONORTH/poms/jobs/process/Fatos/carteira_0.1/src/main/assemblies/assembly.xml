@@ -286,8 +286,8 @@
             <includes>
                 <include>org.apache.logging.log4j:log4j-1.2-api:jar:2.17.1</include>
                 <include>org.talend.components.lib:advancedPersistentLookupLib:jar:1.5</include>
-                <include>org.apache.commons:commons-lang3:jar:3.10</include>
                 <include>com.microsoft.sqlserver:mssql-jdbc:jar:actual</include>
+                <include>org.apache.commons:commons-lang3:jar:3.10</include>
                 <include>org.talend.components.lib:job-audit:jar:1.5</include>
                 <include>net.minidev:accessors-smart:jar:2.4.11</include>
                 <include>org.talend.daikon:logging-event-layout:jar:1.16.1</include>
@@ -296,7 +296,6 @@
                 <include>org.talend.daikon:audit-log4j2:jar:1.16.1</include>
                 <include>org.talend.components.lib:talend_DB_mssqlUtil:jar:1.4</include>
                 <include>net.minidev:json-smart:jar:2.4.11</include>
-                <include>net.sourceforge.jexcelapi:jxl:jar:2.6.12</include>
                 <include>commons-collections:commons-collections:jar:3.2.2</include>
                 <include>trove:trove:jar:1.0.2</include>
                 <include>org.talend.daikon:audit-common:jar:1.16.1</include>
