@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_rxxgcU-CEe-YBMNNuymeGw" label="Hydronorth" description="" language="java" technicalLabel="HYDRONORTH" author="_rxxgck-CEe-YBMNNuymeGw" productVersion="Talend Cloud Data Integration-8.0.1.20240619_0909-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/smssamuel17/talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
-    <migrationTask xmi:id="_rzGWIE-CEe-YBMNNuymeGw" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
-  </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_rxxgck-CEe-YBMNNuymeGw" login="thiagosanti@hydronorth.com" firstName="Thiago" lastName="Oliveira Santi" type="DI"/>
-  <TalendProperties:User xmi:id="_4Yl3AU-CEe-fBvWy_4nsLA" login="joao.santos@hydronorth.com" firstName="João Vitor" lastName="Dos Santos" type="DI"/>
-</xmi:XMI>
