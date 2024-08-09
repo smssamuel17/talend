@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_f81DoFaREe-IKsvA62uBVA" label="Hydronorth" description="" language="java" technicalLabel="HYDRONORTH" author="_f81DoVaREe-IKsvA62uBVA" productVersion="Talend Cloud Data Integration-8.0.1.20240524_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/smssamuel17/talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
+  <TalendProperties:Project xmi:id="_f81DoFaREe-IKsvA62uBVA" label="Hydronorth" description="" language="java" technicalLabel="HYDRONORTH" author="_xV920jfeEe-lYfINq6oE5g" productVersion="Talend Cloud Data Integration-8.0.1.20240524_0800-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/smssamuel17/talend&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI" itemsRelationVersion="1.3" bigData="false">
     <migrationTask xmi:id="_f86jMFaREe-IKsvA62uBVA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
   </TalendProperties:Project>
-  <TalendProperties:User xmi:id="_f81DoVaREe-IKsvA62uBVA" login="thiagosanti@hydronorth.com" firstName="Thiago" lastName="Oliveira Santi" type="DI"/>
+  <TalendProperties:User xmi:id="_xV920jfeEe-lYfINq6oE5g" login="thiagosanti@hydronorth.com" firstName="Thiago" lastName="Oliveira Santi" type="DI"/>
 </xmi:XMI>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><talendfile:ContextType xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmlns:xmi="http://www.omg.org/XMI" confirmationNeeded="false" name="Default" xmi:id="_RbK34KzoEeeulviu08Z5JQ" xmi:version="2.0">
+  <contextParameter comment="" name="connection_salesforce_authentication_type" prompt="connection_salesforce_authentication_type?" promptNeeded="false" type="id_String" value="" xmi:id="_RbK34azoEeeulviu08Z5JQ"/>
+  <contextParameter comment="" name="connection_salesforce_basic_username" prompt="connection_salesforce_basic_username?" promptNeeded="false" type="id_String" value="" xmi:id="_RbK34qzoEeeulviu08Z5JQ"/>
+  <contextParameter comment="" name="connection_salesforce_basic_password" prompt="connection_salesforce_basic_password?" promptNeeded="false" type="id_String" value="" xmi:id="_RbK346zoEeeulviu08Z5JQ"/>
+  <contextParameter comment="" name="connection_salesforce_oauth_consumer_key" prompt="connection_salesforce_oauth_consumer_key?" promptNeeded="false" type="id_String" value="" xmi:id="_RbK35KzoEeeulviu08Z5JQ"/>
+  <contextParameter comment="" name="connection_salesforce_oauth_consumer_secret" prompt="connection_salesforce_oauth_consumer_secret?" promptNeeded="false" type="id_String" value="" xmi:id="_RbK35azoEeeulviu08Z5JQ"/>
+  <contextParameter comment="" name="connection_salesforce_oauth_callback_host" prompt="connection_salesforce_oauth_callback_host?" promptNeeded="false" type="id_String" value="" xmi:id="_RbK35qzoEeeulviu08Z5JQ"/>
+  <contextParameter comment="" name="connection_salesforce_oauth_callback_port" prompt="connection_salesforce_oauth_callback_port?" promptNeeded="false" type="id_String" value="" xmi:id="_RbK356zoEeeulviu08Z5JQ"/>
+  <contextParameter comment="" name="connection_salesforce_oauth_token_file" prompt="connection_salesforce_oauth_token_file?" promptNeeded="false" type="id_String" value="" xmi:id="_RbK36KzoEeeulviu08Z5JQ"/>
+  <contextParameter comment="" name="connection_salesforce_basic_security_token" prompt="connection_salesforce_basic_security_token?" promptNeeded="false" type="id_String" value="" xmi:id="_RbK36azoEeeulviu08Z5JQ"/>
+  <contextParameter comment="" name="connection_salesforce_connection_timeout" prompt="connection_salesforce_connection_timeout?" promptNeeded="false" type="id_String" value="" xmi:id="_RbK36qzoEeeulviu08Z5JQ"/>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_abfcb7c5-b9ad-4f85-b536-c8cf372c6c11"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>Lf0sC70Js7wFFti+o4TSUQ3J6hOnnWaVW9n/H1W7zmy0i4h1t75e3H2gsQ6r/3YOfM6tPYXc9fNh&#13;
+TViDAtgB3Q==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_115ad3f8-b5af-449f-8017-af1dcf01a9be"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>X3cDRIXeT7fnuIbP7y3QfQdRHmqU8W3Gj49iW8/qV7k/yQ/DXQtaZviXrilnvA/TWzCzRVtHUNbV&#13;
+3AQqkUWBuQ==</DigestValue></Reference></SignedInfo><SignatureValue>JrSArLU1Zuvw8+gtBZuzfEpi5YfrzQ2N2KSl+Xrq7KTe9625rX1fX5YMUETNPaqErqZIlC1eSs6m&#13;
+yzV4Nmi8iWjScp43Bx5R38ZxwbXaqWq2LBVHBwW0oriiNeenN4Urc0m5254d6x757Bhgy9UQI3lo&#13;
+vC0TnkvIr1GYTC5QOJa5UhRVr4DavMYI6AH4ttG/lLBionisxpYMKZ36UOUoxwtndsrla8ickHEh&#13;
+C+x+C4jd8Wj6bBp+E4UtKn60RMpABVNz6+DLukp0NiIIwWmLcWVAzMtvuP96ndSYjV+VbHoKNdJ1&#13;
+yI3rnS9RWvahB9zb7mOh9i6rmFJtgKKEw/eicw==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_115ad3f8-b5af-449f-8017-af1dcf01a9be" Target="#_abfcb7c5-b9ad-4f85-b536-c8cf372c6c11"><Timestamp>2024-07-01 19:35:24</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></talendfile:ContextType>
