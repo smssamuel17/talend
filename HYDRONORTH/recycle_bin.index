@@ -4,5 +4,6 @@
   <deletedFolders>process/DataLake/Raw</deletedFolders>
   <deletedFolders>process/Trusted</deletedFolders>
   <deletedItems id="_QWUlIERDEe-YS8RQVZZjcw" path="DataLake/Raw" type="PROCESS"/>
+  <deletedItems id="_K9S44FpmEe-r5dP3fNz1cQ" path="Galera_APP" type="PROCESS"/>
   <deletedItems id="_hNYNAFAkEe-fvMnUTFtn2Q" path="Trusted" type="PROCESS"/>
 </recyclebin:RecycleBin>
